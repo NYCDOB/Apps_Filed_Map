@@ -25,7 +25,7 @@
     .sidebar {
       padding: 10px;
       position: absolute;
-      left: 0px;
+      left: 10px;
       bottom: 150px;
       z-index: 50;
       background: #ffffff;
@@ -52,7 +52,7 @@
 
  
    div.cartodb-legend-stack {
-    left: -3px;
+    left: 10px;
     right: auto;
    }
 
